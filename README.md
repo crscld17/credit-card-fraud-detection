@@ -55,4 +55,4 @@ Il dataset `creditcard.csv` va scaricato da Kaggle e collocato nella cartella de
 
 ---
 
-*Progetto di analisi dati — Claudia Cerasale, 2026*
+*Progetto di analisi dati - Claudia Cerasale, 2026*
